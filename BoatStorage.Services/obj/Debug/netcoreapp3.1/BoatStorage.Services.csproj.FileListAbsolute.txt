@@ -1,0 +1,12 @@
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\bin\Debug\netcoreapp3.1\BoatStorage.Data.dll
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.csprojAssemblyReference.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.AssemblyInfoInputs.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.AssemblyInfo.cs
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\bin\Debug\netcoreapp3.1\BoatStorage.Services.deps.json
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\bin\Debug\netcoreapp3.1\BoatStorage.Services.dll
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\bin\Debug\netcoreapp3.1\BoatStorage.Services.pdb
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\bin\Debug\netcoreapp3.1\BoatStorage.Data.pdb
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.csproj.CopyComplete
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.dll
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Services\obj\Debug\netcoreapp3.1\BoatStorage.Services.pdb

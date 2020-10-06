@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatDbRepositoryTests\\BoatStorage.Services.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatDbRepositoryTests\\BoatStorage.Services.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatDbRepositoryTests\\BoatStorage.Services.Tests.csproj",
+        "projectName": "BoatStorage.Services.Tests",
+        "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatDbRepositoryTests\\BoatStorage.Services.Tests.csproj",
+        "packagesPath": "C:\\Users\\Ksushka\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatDbRepositoryTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ksushka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Data\\BoatStorage.Data.csproj": {
+                "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Data\\BoatStorage.Data.csproj"
+              },
+              "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Services\\BoatStorage.Services.csproj": {
+                "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Services\\BoatStorage.Services.csproj"
+              },
+              "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Tests\\BoatStorage.Tests.csproj": {
+                "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage.Tests\\BoatStorage.Tests.csproj"
+              },
+              "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage\\BoatStorage.csproj": {
+                "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\BoatStorage\\BoatStorage.csproj"
+              },
+              "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\LearningApp3\\LearningApp3.csproj": {
+                "projectPath": "D:\\VisualStudioProjects\\Main\\Source\\Xenia\\BoatProject\\LearningApp3\\LearningApp3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac.Extras.Moq": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.63, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

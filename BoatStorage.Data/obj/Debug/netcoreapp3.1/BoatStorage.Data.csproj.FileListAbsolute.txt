@@ -1,0 +1,12 @@
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\bin\Debug\netcoreapp3.1\BoatStorage.Data.deps.json
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\bin\Debug\netcoreapp3.1\BoatStorage.Data.runtimeconfig.json
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\bin\Debug\netcoreapp3.1\BoatStorage.Data.runtimeconfig.dev.json
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\bin\Debug\netcoreapp3.1\BoatStorage.Data.dll
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.AssemblyInfoInputs.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.AssemblyInfo.cs
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.genruntimeconfig.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\bin\Debug\netcoreapp3.1\BoatStorage.Data.pdb
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.dll
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.pdb
+C:\Users\Xenia\Source\Workspaces\LearningProjects\Main\Source\Xenia\BoatStorage.Data\obj\Debug\netcoreapp3.1\BoatStorage.Data.csprojAssemblyReference.cache

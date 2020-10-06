@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="96d5bf2d-b785-41a5-bd66-3eff0bff2c1d" ChangeDateTime="04/09/2020 11:11:40">
+    <Property Name="ElementName" Value="[dbo].[FK_Boats_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Boats]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Boats_TechnicalInspection_CurrentParameters]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e38b93c9-0097-4331-b702-f551848c035d" ChangeDateTime="04/09/2020 20:13:38">
+    <Property Name="ElementName" Value="[dbo].[CurrentParameters].[Current Day]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CurrentParameters]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BoatsId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d2ee0bd6-2e13-438d-b727-a25462eb886d" ChangeDateTime="04/09/2020 20:14:08">
+    <Property Name="ElementName" Value="[dbo].[TechnicalInspection].[StatusOfCorpus]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TechnicalInspection]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BoatsId" />
+  </Operation>
+</Operations>
